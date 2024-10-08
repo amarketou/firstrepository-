@@ -7,5 +7,3 @@ something with gyres
 seventh
 eight line
 ninth line
-
-ninth line (duplicate)
